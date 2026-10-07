@@ -1,0 +1,9 @@
+{
+  "name": "clear-view",
+  "version": "0.1.0",
+  "description": "Live session dashboard: what Claude is doing now, turn timing, tool stats, files touched, errors and token usage in one pane.",
+  "author": {
+    "name": "Minty Antra Labs"
+  },
+  "types": "./types/index.d.ts"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "claude-mods",
+  "description": "Claude Code mods by Minty Antra Labs.",
+  "owner": {
+    "name": "Minty Antra Labs"
+  },
+  "plugins": [
+    {
+      "name": "clear-view",
+      "source": "./clear-view"
+    }
+  ]
+}
